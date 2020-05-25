@@ -1,0 +1,19 @@
+{
+  "name": "react-autocomplete-mayux",
+  "version": "1.0.0",
+  "description": "Here I used material-ui low level API(useAutoComplete.\nSelect all options feature is included",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mayu2eng/react-autocomplete.git"
+  },
+  "keywords": [
+    "react",
+    "autocomplete"
+  ],
+  "author": "mayuran",
+  "license": "ISC"
+}

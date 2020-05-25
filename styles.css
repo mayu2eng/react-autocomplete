@@ -1,0 +1,47 @@
+.autoComplete .title{
+  color: rgba(100,109,130,1);
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-bottom: 4px;
+}
+.multiSelectComboWrapper {
+  position: relative;
+  margin: 10px;
+  min-width: 420px;
+}
+.multiSelectCombo {
+  margin-top: 4px;
+}
+.multiSelectCombo label{
+  margin: 0;
+  color: rgba(255,255,255,1);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.multiSelectCombo .MuiGrid-root > svg.MuiSvgIcon-root {
+  fill: rgba(255,255,255,1);
+}
+
+
+.multiSelectComboList .selectAll {
+  margin: 0 0 16px 0;
+  padding: 7px;
+  background-color: rgba(248, 248, 248, 1);
+}
+.multiSelectComboList .selectAll label{
+  color: rgba(44,44,44,1);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+}
+.multiSelectComboList ul li span{
+  color: rgba(44,44,44,1);
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 21px;
+}
